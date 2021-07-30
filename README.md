@@ -2,7 +2,7 @@
 ## Flutter Basic State Management
 
 Payment Page:
-![alt text](https://github.com/rzrh/payment-mobile-apps/ScreenShoot/payment_page.png "Payment Page")
+![alt text](https://github.com/rzrh/payment-mobile-apps/tree/master/ScreenShoot/payment_page.png "Payment Page")
 
 Payment Selected Page:
-![alt text](https://github.com/rzrh/payment-mobile-apps/ScreenShoot/payment_page.png "Payment Selected Page")
+![alt text](https://github.com/rzrh/payment-mobile-apps/ScreenShoot/payment_page_selected.png "Payment Selected Page")
