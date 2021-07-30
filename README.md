@@ -1,4 +1,4 @@
-# PAMENT MOBILE APPS
+# PAYMENT MOBILE APPS
 ## Flutter Basic State Management
 
 Payment Page:
